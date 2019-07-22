@@ -2,15 +2,88 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "Which of the following African countries was most successful in resisting colonization?",
+      "answer_options": ["Ivory Coast", "Ethiopia", "Namibia", "Congo"],
+      "answer": "Ethiopia"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "Which famous world leader is famed for the saying, 'Let them eat cake', yet is rumored that he/she never said it at all?",
+      "answer_options": [
+        "Marie Antoinette",
+        "Elizabeth I",
+        "Czar Nicholas II",
+        "Henry VIII"
+      ],
+      "answer": "Marie Antoinette"
+    },
+    {
+      "id": 3,
+      "instruction_text": "In which year did the Invasion of Kuwait by Iraq occur?",
+      "answer_options": ["1992", "1990", "1988", "1986"],
+      "answer": "1990"
+    },
+    {
+      "id": 4,
+      "instruction_text": "What was the first sport to have been played on the moon?",
+      "answer_options": ["Tennis", "Football", "Soccer", "Golf"],
+      "answer": "Golf"
+    },
+    {
+      "id": 5,
+      "instruction_text": "Who was the first prime minister of Canada?",
+      "answer_options": [
+        "John Macdonald",
+        "Robert Borden",
+        "John Abbott",
+        "Alexander Mackenzie"
+      ],
+      "answer": "John Macdonald"
+    },
+    {
+      "id": 6,
+      "instruction_text": "The 'Trail of Tears'; was a result of which United States Presidents Indian Removal Policy?",
+      "answer_options": [
+        "John Quincy Adams",
+        "Harry S. Truman",
+        "Martin Van Buren",
+        "Andrew Jackson"
+      ],
+      "answer": "Andrew Jackson"
+    },
+    {
+      "id": 7,
+      "instruction_text": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+      "answer_options": [
+        "The Polish President",
+        "Bang-Ding Ow",
+        "Pope John Paul II",
+        "Albert Putin"
+      ],
+      "answer": "The Polish President"
+    },
+    {
+      "id": 8,
+      "instruction_text": "To what political party did Abraham Lincoln belong when elected POTUS?",
+      "answer_options": ["Democrat", "Republican", "Independent", "Whig"],
+      "answer": "Republican"
+    },
+    {
+      "id": 9,
+      "instruction_text": "Which modern country is known as 'The Graveyard of Empires'?",
+      "answer_options": ["Iraq", "China", "Russia", "Afghanistan"],
+      "answer": "Afghanistan"
+    },
+    {
+      "id": 3,
+      "instruction_text": "Who led the Communist Revolution of Russia?",
+      "answer_options": [
+        "Joseph Stalin",
+        "Vladimir Putin",
+        "Vladimir Lenin",
+        "Mikhail Gorbachev"
+      ],
+      "answer": "Vladimir Lenin"
     }
   ]
 }
