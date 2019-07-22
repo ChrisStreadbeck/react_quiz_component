@@ -5,7 +5,11 @@ import Quiz from "./Quiz";
 
 class App extends Component {
   render() {
-    return <Quiz />;
+    return (
+      <div className="app-wrapper">
+        <Quiz />
+      </div>
+    );
   }
 }
 

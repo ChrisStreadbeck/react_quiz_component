@@ -1,9 +1,8 @@
 .QuizQuestion {
   display: flex;
   justify-content: center;
-  align-items: center;
   font-size: 2em;
-  text-align: center;
+  text-align: justify;
 }
 .QuizEnd {
   display: flex;
@@ -30,7 +29,19 @@ button {
   margin: 0.6em auto;
   font-size: 1.5em;
   display: block;
+  transition: 0.5s;
 }
+
+.button :hover {
+  box-shadow: 5px 5px 5px #999;
+}
+
 .error {
   color: red;
+  text-align: center;
+}
+
+.text-wrapper {
+  font-size: 1.2rem;
+  width: 250px;
 }
